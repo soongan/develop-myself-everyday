@@ -1,1 +1,1 @@
-# study
+# develop myself everyday
