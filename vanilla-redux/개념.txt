@@ -1,0 +1,10 @@
+# three principles
+# single source of truth
+# state is read only. action으로만 바꾸기
+
+
+
+
+
+mutate하지마라
+return new object
